@@ -7,10 +7,8 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 I’m currently working on **Hospital Management & ERP Systems**
 * 🌱 I’m learning **Advanced .NET Architecture & System Design**
 * 💬 Ask me about **Angular, ASP.NET Core, MongoDB**
-* ⚡ Fun fact: I love turning complex problems into simple solutions
 
 ---
 
@@ -20,7 +18,9 @@
 
 * Angular
 * TypeScript
-* HTML • CSS • PrimeNG
+* HTML
+* CSS
+* JavaScript
 
 **Backend**
 
@@ -31,29 +31,14 @@
 **Database**
 
 * MongoDB
-* LINQ
+* MySql
 
 **Tools**
 
 * Git & GitHub
 * Postman
+* Jira
 * VS Code & Visual Studio
-
----
-
-## 📌 Featured Projects
-
-### 🏥 Hospital Management System
-
-* Patient registration & billing
-* Reports & analytics
-* Role-based modules
-
-### 🚕 Taxi Booking Web App
-
-* Booking management
-* Dynamic pricing
-* Admin dashboard
 
 ---
 
