@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi 👋, I'm Anushalav Bhatt
 
-<!--
-**ANUSHALAV/Anushalav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Angular • ASP.NET Core • MongoDB
+🚀 Building scalable web applications and APIs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🔭 I’m currently working on **Hospital Management & ERP Systems**
+* 🌱 I’m learning **Advanced .NET Architecture & System Design**
+* 💬 Ask me about **Angular, ASP.NET Core, MongoDB**
+* ⚡ Fun fact: I love turning complex problems into simple solutions
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+* Angular
+* TypeScript
+* HTML • CSS • PrimeNG
+
+**Backend**
+
+* ASP.NET Core Web API
+* C#
+* REST APIs
+
+**Database**
+
+* MongoDB
+* LINQ
+
+**Tools**
+
+* Git & GitHub
+* Postman
+* VS Code & Visual Studio
+
+---
+
+## 📌 Featured Projects
+
+### 🏥 Hospital Management System
+
+* Patient registration & billing
+* Reports & analytics
+* Role-based modules
+
+### 🚕 Taxi Booking Web App
+
+* Booking management
+* Dynamic pricing
+* Admin dashboard
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/your-link
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+⭐️ From [Anushalav Bhatt](https://github.com/YOUR_USERNAME)
