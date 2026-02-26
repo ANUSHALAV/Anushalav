@@ -17,18 +17,20 @@
 
 ### 🎨 Frontend
 
-* Angular
-* TypeScript
 * HTML
 * CSS
 * JavaScript
+* Bootstrap
+* Tailwind
+* Angular
+* TypeScript
 
 ---
 
 ### ⚙️ Backend
 
-* ASP.NET Core Web API
 * C#
+* ASP.NET Core Web API
 * REST APIs
 ---
 
@@ -56,5 +58,3 @@
 👉 [bhattanushalav@gmail.com](mailto:bhattanushalav@gmail.com)
 
 ---
-
-⭐️ From **Anushalav Bhatt**
