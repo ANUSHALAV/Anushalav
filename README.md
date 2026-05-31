@@ -10,6 +10,7 @@
 * 🌱 Currently learning **Advanced .NET Architecture & System Design**
 * 💬 Ask me about **Angular, ASP.NET Core, MongoDB, LINQ**
 * 🛠 Working on real-world systems like **Hospital Management System (HMS)**
+* 🧠 Practicing **Data Structures & Algorithms using Java**
 
 ---
 
@@ -32,12 +33,23 @@
 * C#
 * ASP.NET Core Web API
 * REST APIs
+
 ---
 
 ### 🗄 Database
 
 * MongoDB
-* MySql
+* MySQL
+
+---
+
+### 🧩 Problem Solving & DSA
+
+* Java
+* Data Structures
+* Algorithms
+* Competitive Programming
+
 ---
 
 ### 🧰 Tools & Platforms
@@ -51,10 +63,8 @@
 
 ## 🤝 Connect With Me
 
-💼 **LinkedIn**
+💼 LinkedIn
 👉 https://www.linkedin.com/in/anushalavbhatt/
 
-📧 **Email**
-👉 [bhattanushalav@gmail.com](mailto:bhattanushalav@gmail.com)
-
----
+📧 Email
+👉 bhattanushalav@gmail.com
