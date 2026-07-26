@@ -69,7 +69,5 @@
 📧 Email
 👉 bhattanushalav@gmail.com
 
-## 🌐 Portfolio
-
-Visit my portfolio:  
+🌐 Portfolio
 👉 https://portfolioanushalavbhatt.netlify.app/
